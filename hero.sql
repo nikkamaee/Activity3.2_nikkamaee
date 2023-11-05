@@ -156,3 +156,6 @@ VALUES
 
 
    
+   --3. Add column price
+ ALTER TABLE item_table
+ ADD item_price DECIMAL(10,2); 
