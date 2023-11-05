@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IT211 Activity 3. Step-by-step process:
 
 ## Step 1: Open a terminal
@@ -107,3 +108,6 @@ git checkout -b feat/create-tables
 	git log
 	git log --oneline
 		= View the commit history.
+=======
+# Activity3.2_nikkamaee
+>>>>>>> cd556bc92e7c35279bbd770d0a8618e9219abb7c
